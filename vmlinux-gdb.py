@@ -1,0 +1,1 @@
+/home/islab/linux-4.4.1/scripts/gdb/vmlinux-gdb.py
